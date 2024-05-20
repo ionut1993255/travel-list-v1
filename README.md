@@ -12,7 +12,7 @@ This `React` application offers a seamless experience for managing your travel p
 
 - **Intuitive User Interface**: The app features an intuitive and user-friendly interface, designed to streamline your packing process. Effortlessly add, toggle or delete items with just a few clicks, making trip planning a breeze.
 
-### Technologies Used
+## Technologies Used
 
 - **React**: Built with `React`, the leading `JavaScript` library for building user interfaces, ensuring a robust and responsive application.
 
@@ -24,7 +24,7 @@ This `React` application offers a seamless experience for managing your travel p
 
 - **react-hot-toast**: Incorporates `react-hot-toast` for real-time notifications, delivering instant feedback on your packing list actions and enhancing the user experience.
 
-#### How to Use
+## How to Use
 
 1. Clone the `travel-list-v1` repository to your local machine.
 2. Navigate into the project directory using the command `cd your-project-folder`.
@@ -32,6 +32,6 @@ This `React` application offers a seamless experience for managing your travel p
 4. Run the development server using `yarn start`.
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-##### Demo
+## Demo
 
 You can view a live demo of the project here: `https://travel-list-version-1.netlify.app`.
