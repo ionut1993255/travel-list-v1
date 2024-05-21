@@ -2,6 +2,12 @@
 
 This `React` application offers a seamless experience for managing your travel packing list. With a blend of cutting-edge technologies and user-friendly design, organizing your trip essentials has never been easier.
 
+## Installation Guide
+
+1. Install dependencies using `yarn install`.
+2. Run the frontend development server using `yarn start`.
+3. Open your browser and navigate to <a href="http://localhost:3000">`http://localhost:3000`<a/> to view the application.
+
 ## Key Features
 
 - **Efficient State Management**: By harnessing the power of `Context API` alongside `useReducer`, `useState` and `useEffect`, the app ensures smooth and efficient state handling, allowing you to focus on your travel preparations without hassle.
@@ -24,14 +30,6 @@ This `React` application offers a seamless experience for managing your travel p
 
 - **react-hot-toast**: Incorporates `react-hot-toast` for real-time notifications, delivering instant feedback on your packing list actions and enhancing the user experience.
 
-## How to Use
-
-1. Clone the `travel-list-v1` repository to your local machine.
-2. Navigate into the project directory using the command `cd your-project-folder`.
-3. Install dependencies using `yarn install`.
-4. Run the development server using `yarn start`.
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
-
 ## Demo
 
-You can view a live demo of the project here: `https://travel-list-version-1.netlify.app`.
+You can view a live demo of the project here: <a href="https://travel-list-version-1.netlify.app">`https://travel-list-version-1.netlify.app`<a/>.
